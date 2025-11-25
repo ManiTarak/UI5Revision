@@ -1,0 +1,3 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ui.bootstrap.controller.App">
+  <Button text="{i18n>btn_text}" press="pressMeEventHandlerFunction"></Button>
+</mvc:View>
